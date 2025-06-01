@@ -1,8 +1,6 @@
-hello 
-
-we are here to learn git and github
-
-kent water is pure water by advatisment 
-
-sudo su - is the commond for switch to root user
-
+echo "today date and time"
+date
+echo "Display hard dicsk of the machine"
+df -h
+echo "Display the load avarage"
+w
