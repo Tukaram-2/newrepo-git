@@ -1,0 +1,8 @@
+hello 
+
+we are here to learn git and github
+
+kent water is pure water by advatisment 
+
+sudo su - is the commond for switch to root user
+
